@@ -1,2 +1,2 @@
 # Problem9
-Designed a BLDC motor using basic Simulink blocks
+Design a BLDC motor using basic Simulink blocks.Demonstrate a speed control system with this motor. 
