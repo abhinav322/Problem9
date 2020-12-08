@@ -1,0 +1,19 @@
+1.Madhurima Chattopadhyay, Priyanka Roy Sharmi Dutta[2012]
+
+Simulation Modeling of BLDC motor drive and 
+harmonic analysis of stator current, rotor speed 
+and acceleration using Discrete Wavelet Transform Technique
+
+Retrieved from https://www.sciencedirect.com/science/article/pii/S2212017312003866
+
+
+2. H.E.A.Ibrahim ,F.N.Hassan, Anas O.Shomer
+
+Optimal PID control of a brushless DC motor using PSO and BF techniques
+
+Retrieved from 
+https://www.sciencedirect.com/science/article/pii/S2090447913000993
+
+
+3.Glean and Grow YouTube Channel videos
+
