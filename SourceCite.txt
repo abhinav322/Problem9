@@ -1,19 +1,15 @@
-1.Madhurima Chattopadhyay, Priyanka Roy Sharmi Dutta[2012]
+1. P. Suganthi, S. Nagapavithra and S. Umamaheswari, "Modeling and simulation of closed loop speed control for BLDC motor," 2017 Conference on Emerging Devices and Smart Systems (ICEDSS), Tiruchengode, 2017, pp. 229-233, doi: 10.1109/ICEDSS.2017.8073686.
 
-Simulation Modeling of BLDC motor drive and 
-harmonic analysis of stator current, rotor speed 
-and acceleration using Discrete Wavelet Transform Technique
-
-Retrieved from https://www.sciencedirect.com/science/article/pii/S2212017312003866
+Retrieved from https://ieeexplore.ieee.org/abstract/document/8073686
 
 
-2. H.E.A.Ibrahim ,F.N.Hassan, Anas O.Shomer
-
-Optimal PID control of a brushless DC motor using PSO and BF techniques
+2.H.E.A. Ibrahim, F.N. Hassan, Anas O. Shomer,
+Optimal PID control of a brushless DC motor using PSO and BF techniques,Ain Shams Engineering Journal,Volume 5, Issue 2,2014,Pages 391-398,ISSN 2090-4479,
 
 Retrieved from 
 https://www.sciencedirect.com/science/article/pii/S2090447913000993
+Note: Took the reference of only Ki,Kp,Kd values from this paper.
 
 
 3.Glean and Grow YouTube Channel videos
-
+https://www.youtube.com/watch?v=zAWLZ995Sog&t=2693s&ab_channel=GleanandGrow
